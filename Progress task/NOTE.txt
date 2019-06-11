@@ -1,0 +1,5 @@
+Python_to_robot.py takes two arguments first one is the file name and the sencond one is comport number
+
+
+
+eg:python Python_to_robot.py example_1.txt com6
